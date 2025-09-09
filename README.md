@@ -208,9 +208,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Nama Anda - [email@example.com](mailto:email@example.com)
+Ferdinand TJ- [ferdinandtj4@gmail.com](mailto:ferdinandtj4@gmail.com)
 
-Project Link: [https://github.com/username/cobapertama-ts](https://github.com/username/cobapertama-ts)
+Project Link: [https://github.com/FerdinandTJ/belajarreactjs-form-mahasiswa](https://github.com/FerdinandTJ/belajarreactjs-form-mahasiswa)
 
 ## 🙏 Acknowledgments
 
